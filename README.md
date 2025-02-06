@@ -18,8 +18,3 @@ A web app built with React, Node.js, and Redux allowing users to create custom r
 - **State Management with Redux:** Redux is used to manage application state, including user input and the route data.
 - **Backend Integration with MySQL:** The backend handles user route data, saving and retrieving it from a MySQL database through RESTful APIs.
 - **Google Maps & Directions API:** The frontend integrates directly with the Google Maps API and the Google Maps Directions API to visualize and generate directions for the routes.
-
-## Project Structure
-The project is divided into two parts:
-- **Frontend:** [GitHub Repository](https://github.com/Shashini-Siriwardhana/google-maps-extension-frontend)
-- **Backend:** [GitHub Repository](https://github.com/Shashini-Siriwardhana/google-maps-extension-backend)

@@ -1,0 +1,39 @@
+.route-block-container {
+    padding: 10px 0px 10px 10px;
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+    flex-direction: row;
+    border: 1px dashed black;
+    border-radius: 5px;
+    margin: 10px;
+    align-items: center;
+}
+
+.route-block-items {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.destination-block {
+    display: grid; 
+    grid-template-columns: 1fr 7fr 2fr; 
+    flex-direction: row; 
+    width: 100%;
+    align-content: center ;
+    height: 100%;
+}
+
+.drop-down {
+    width: 100%;
+    text-align: left;
+    padding: 10px;
+}
+
+.locaton-icon {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    height: 100%;
+}

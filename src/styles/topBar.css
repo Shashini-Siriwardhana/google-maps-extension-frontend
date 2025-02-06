@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #0c0101;
+    height: 80px;
+}
+
+.navbar-nav {
+    margin-right: 20px;
+}
+
+.nav-item {
+    margin-left: 15px;
+    margin-right: 15px;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    font-weight: 700;
+    color: white;
+    opacity: 0.8;
+}
+
+.nav-item.active {
+    color: rgb(155, 211, 234);
+}
